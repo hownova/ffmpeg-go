@@ -1,4 +1,4 @@
-module github.com/u2takey/ffmpeg-go
+module github.com/hownova/ffmpeg-go
 
 go 1.16
 
